@@ -1,5 +1,4 @@
-rake new_post- ["Essential Reading List for Front-end Developer."]
-
+# A front-end developer's reading list
 本文列出了前端开发者需要阅读的一些经典的文章，这些文章涵了一名现代开发者需要了解的各个方向和领域， 每一篇文章会涵盖一个主题，对其中所涉及的理论和概念都有深入的讨论和介绍，包括基本的基础知识，JavaScript的核心概念，设计模式，性能优化，实践技巧等。
 
 ## 101
@@ -24,7 +23,7 @@ rake new_post- ["Essential Reading List for Front-end Developer."]
 - [The Shapes of CSS](http://css-tricks.com/examples/ShapesOfCSS/)
 - [Pseudo-elements](http://msdn.microsoft.com/en-us/library/windows/apps/hh767361.aspx)
 - [Fonts, fabulous fonts: How to use the @font-face rule with popular font services](http://www.adobe.com/devnet/edge-web-fonts/articles/use-at-font-face-with-with-font-services.html)
-- [转换](http://msdn.microsoft.com/zh-cn/library/ie/hh673529(v=vs.85).aspx)
+- [转换](http://msdn.microsoft.com/zh-cn/library/ie/hh673529\(v=vs.85\).aspx)
 
 ## JavaScript
 - [Efficient JavaScript](http://dev.opera.com/articles/view/efficient-javascript/)
@@ -101,6 +100,7 @@ rake new_post- ["Essential Reading List for Front-end Developer."]
 - [Speed up your JavaScript: The talk](http://www.nczonline.net/blog/2009/06/05/speed-up-your-javascript-the-talk/)
 - [On translate3d and layer creation hacks](http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/)
 - [Improving the Performance of your HTML5 App](http://www.html5rocks.com/en/tutorials/speed/html5/)
+- [High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 - [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
 - [Speed up your JavaScript, Part 4](http://www.nczonline.net/blog/2009/02/03/speed-up-your-javascript-part-4/)
 - [Reflows & Repaints: CSS Performance making your JavaScript slow?](http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow/)
@@ -116,6 +116,7 @@ rake new_post- ["Essential Reading List for Front-end Developer."]
 - [The Essentials of Writing High Quality JavaScript - Tuts+ Code Tutorial](http://net.tutsplus.com/tutorials/javascript-ajax/the-essentials-of-writing-high-quality-javascript/)
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/)
 - [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+- [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)
 - [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 ## Design Pattern
@@ -138,3 +139,6 @@ rake new_post- ["Essential Reading List for Front-end Developer."]
 - [High Performance Mobile](http://davidbcalhoun.com/present/mobile-performance/)
 - [Deep CSS Secrets 10 things you may not know about CSS](http://lea.verou.me/more-css-secrets/)
 - [DevTools can do THAT?](https://docs.google.com/presentation/d/1DNljLkRpe9LIDfcqcpHzdLvEOyuVH4d1y9dtAJBr1I8/preview)
+
+## Github
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
